@@ -1,9 +1,4 @@
 # personal_notes_manager
-
-That's awesome! 🔥 Since you've already implemented the full **Personal Notes Manager API** with **JWT Auth**, **search**, and **reminders**, here’s a well-crafted `README.md` for your GitHub project.
-
-You can tweak it to match any exact changes you've made.
-
 ---
 
 ## 📒 Personal Notes Manager API
